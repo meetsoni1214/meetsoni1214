@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @meetsoni1214
-- 👀 I’m interested in DSA,Open-Source
-- 🌱 I’m currently learning DSA,Open-Source
+- 👀 I’m interested in DSA,Open-Source, Android Development
+- 🌱 I’m currently learning Android Development and DSA
+- 💼 Doing internship in SEO and Digital Marketing
 - 📫 How to reach me -twitter or on instagram(@meetsoni1214)
 
 <!---
