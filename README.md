@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meetsoni1214
-- 👀 I’m interested in DSA, Open-Source, Android Development
+- 👀 I’m interested in DSA, Open-Source, Mobile Development
 - 🌱 I’m currently learning React
 - 💪 Aspire to become an Entrepreneur
 - 📫 How to reach me -x or on Instagram(@meetsoni1214)
